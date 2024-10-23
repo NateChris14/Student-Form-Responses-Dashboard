@@ -11,7 +11,7 @@ In today's fast-paced world, real-time data analysis is crucial for making infor
 - Data Collection: Integrated form responses directly into Excel using real-time data connections.
 - Data Transformation: Utilized Excel to transform the data for analysis.
 - Data Analysis: Utilize various tools in Excel to generate visualizations and gather useful insights
-- 
+  
 🔍 Key Findings:
 
 Students who chose Data Scientist as their future career have a higher score compared to those who chose Data Analyst as their future career,. This doesn't indicate that one group is smarter than the other as the form posed questions about data science along with data analysis, thus explaining the edge that the aspiring data scientists have in scores.
